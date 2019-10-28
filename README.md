@@ -1,6 +1,6 @@
-#Daily Announcements
+# Daily Announcements
 
-###Overview:
+### Overview:
 
 This repo will contain information from morning warmups and daily 
 announcements. 
