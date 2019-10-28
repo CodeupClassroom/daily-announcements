@@ -11,6 +11,6 @@ warmups
  and announcements. 
  
     - For example, if a file is named `20191028.md`, this will contain all 
-    warmups and announcement given for the week of October 28th.
+    warmups and announcements given for the week of October 28th.
     
  - Check updates to this repo to view important dates and class events.
